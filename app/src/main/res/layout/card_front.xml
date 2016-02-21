@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:tint="#FF434850"
+        android:padding="16dp"
+        android:src="@drawable/rectangle"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="FRONT"
+        android:textColor="#fff"
+        style="@style/Base.TextAppearance.AppCompat.Display1"
+        android:gravity="center"/>
+
+</FrameLayout>
