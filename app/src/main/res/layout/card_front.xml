@@ -7,15 +7,15 @@
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:tint="#FF434850"
+        android:tint="@color/cardFront"
         android:padding="16dp"
         android:src="@drawable/rectangle"/>
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="FRONT"
-        android:textColor="#fff"
+        android:text="@string/front"
+        android:textColor="@color/white"
         style="@style/Base.TextAppearance.AppCompat.Display1"
         android:gravity="center"/>
 

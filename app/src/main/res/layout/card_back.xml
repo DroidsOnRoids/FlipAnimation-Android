@@ -9,15 +9,15 @@
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:tint="#bc4c4a"
+        android:tint="@color/cardBack"
         android:padding="16dp"
         android:src="@drawable/rectangle"/>
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="BACK"
-        android:textColor="#fff"
+        android:text="@string/back"
+        android:textColor="@color/white"
         style="@style/Base.TextAppearance.AppCompat.Display1"
         android:gravity="center"/>
 

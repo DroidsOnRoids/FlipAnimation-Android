@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BlogPost</string>
+    <string name="front">FRONT</string>
+    <string name="back">BACK</string>
 </resources>
